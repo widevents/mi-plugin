@@ -4,8 +4,6 @@
  *
  * @package LearnDash
  * @subpackage Course
-
- comentario jorge
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
